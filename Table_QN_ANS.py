@@ -1,6 +1,7 @@
 from transformers import pipeline
 import pandas as pd
 import streamlit as st
+import os
 #os.system ("pip install git+https://github.com/explosion/spacy-transformers")
 os.system("pip install git+https://github.com/rusty1s/pytorch_scatter")
 # prepare table + question
