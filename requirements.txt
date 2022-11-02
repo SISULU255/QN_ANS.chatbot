@@ -1,3 +1,4 @@
+torch_scatter
 transformers
 streamlit
-pytorch_scatter
+
