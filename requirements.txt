@@ -1,4 +1,4 @@
-torch_scatter
+torch-scatter
 transformers
 streamlit
 
