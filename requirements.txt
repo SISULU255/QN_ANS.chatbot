@@ -1,4 +1,2 @@
-torch-scatter
 transformers
 streamlit
-
